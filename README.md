@@ -1,2 +1,2 @@
-# DIFC-LegalBot-
+# DIFC-LegalBot
 RAG for UAE Labor Law
